@@ -1,6 +1,6 @@
 {
   "name": "rebanho-facil",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Gestão pecuária do Rebanho Fácil: animais, pesagens, sanidade, reprodução, pastagens e financeiro da fazenda.",
   "author": {
     "name": "Zero Um Labs",
@@ -15,5 +15,6 @@
     "fazenda",
     "gado",
     "mcp"
-  ]
+  ],
+  "privacyPolicyUrl": "https://app.rebanhofacil.com/privacidade"
 }
