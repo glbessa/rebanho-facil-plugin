@@ -1,0 +1,33 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "rebanho-facil",
+  "version": "1.0.0",
+  "description": "Gestão pecuária do Rebanho Fácil: animais, pesagens, sanidade, reprodução, pastagens e financeiro da fazenda.",
+  "author": {
+    "name": "Zero Um Labs",
+    "email": "suporte@rebanhofacil.com"
+  },
+  "homepage": "https://app.rebanhofacil.com/conectar-mcp",
+  "repository": "https://github.com/glbessa/rebanho-facil-plugin",
+  "license": "MIT",
+  "keywords": [
+    "pecuaria",
+    "rebanho",
+    "fazenda",
+    "gado",
+    "mcp"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Rebanho Fácil",
+        "shortDescription": "Gestão do rebanho por conversa",
+        "longDescription": "Conecta sua conta do Rebanho Fácil. Cadastre animais, lance pesagens, medicamentos e partos, acompanhe GPD, carências e vacinas pendentes, mova lotes entre campos e registre receitas e despesas da fazenda.",
+        "category": "Productivity",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/icon.png",
+        "brandColor": "#2D5016"
+      }
+    }
+  }
+}

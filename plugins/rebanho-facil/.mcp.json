@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rebanho-facil": {
+      "type": "http",
+      "url": "https://app.rebanhofacil.com/mcp"
+    }
+  }
+}

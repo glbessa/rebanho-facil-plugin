@@ -1,0 +1,12 @@
+{
+  "name": "rebanho-facil",
+  "interface": { "displayName": "Rebanho Fácil" },
+  "plugins": [
+    {
+      "name": "rebanho-facil",
+      "source": { "source": "local", "path": "./plugins/rebanho-facil" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}

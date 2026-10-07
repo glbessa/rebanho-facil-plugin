@@ -1,0 +1,12 @@
+{
+  "name": "rebanho-facil",
+  "description": "Plugins do Rebanho Fácil",
+  "owner": { "name": "Zero Um Labs", "email": "suporte@rebanhofacil.com" },
+  "plugins": [
+    {
+      "name": "rebanho-facil",
+      "source": "./plugins/rebanho-facil",
+      "description": "Gestão pecuária do Rebanho Fácil por conversa"
+    }
+  ]
+}
