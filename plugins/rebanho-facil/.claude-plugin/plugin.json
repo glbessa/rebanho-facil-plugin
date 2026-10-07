@@ -1,12 +1,12 @@
 {
   "name": "rebanho-facil",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gestão pecuária do Rebanho Fácil: animais, pesagens, sanidade, reprodução, pastagens e financeiro da fazenda.",
   "author": {
     "name": "Zero Um Labs",
     "email": "suporte@rebanhofacil.com"
   },
-  "homepage": "https://app.rebanhofacil.com/conectar-mcp",
+  "homepage": "https://rebanhofacil.com",
   "repository": "https://github.com/glbessa/rebanho-facil-plugin",
   "license": "MIT",
   "keywords": [
